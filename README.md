@@ -178,7 +178,7 @@ This project implements the four basic CRUD operations:
 
 Possible improvements for future versions:
 
-- [ ] Add persistent data storage using JSON
+- [✔️] Add persistent data storage using JSON
 - [ ] Add better exception handling for invalid input
 - [ ] Add a confirmation before deleting a student
 - [ ] Add more detailed validation for percentage and class
